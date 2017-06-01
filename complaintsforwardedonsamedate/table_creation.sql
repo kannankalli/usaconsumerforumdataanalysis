@@ -1,0 +1,1 @@
+create table samedayresponse ( datereceived varchar(100), response_count integer);
