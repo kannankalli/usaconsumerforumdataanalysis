@@ -1,0 +1,1 @@
+sqoop export --connect jdbc:mysql://localhost/test --table timelyresponse --username root --m 1 --export-dir /flume_data/timelyresponse/part-r-00000 --input-fields-terminated-by '\t' 
