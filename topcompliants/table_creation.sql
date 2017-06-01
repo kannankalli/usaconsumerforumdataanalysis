@@ -1,0 +1,1 @@
+create table topcompliants ( company varchar(100), complaint_count integer);

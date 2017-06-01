@@ -1,0 +1,1 @@
+sqoop export --connect jdbc:mysql://localhost/test --table topcompliants --username root --m 1 --export-dir /flume_data/topcompliantscompany/part-r-00000 --input-fields-terminated-by '\t' 
