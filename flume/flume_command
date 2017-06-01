@@ -1,0 +1,2 @@
+---apache flume command
+flume-ng agent -n agent1 -f /home/acadgild/Downloads/project/2_project_2/consumercompliants.conf -Dflume.root.logger=DEBUG,console
