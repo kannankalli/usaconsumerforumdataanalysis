@@ -1,0 +1,10 @@
+1. Introduction
+The dataset is in csv format and contains the attributes pertaining to resolution of the consumer complaints.
+
+5. Problem Statement
+Note: You need to copy the dataset into HDFS using Flume and the results of the problem statements should be exported into RDBMS(Mysql) using sqoop.
+The aim of this project is to analyze performance of various companies on aspects like:
+1. Write a pig script to find no of complaints which got timely response
+2. Write a pig script to find no of complaints where consumer forum forwarded the complaint same day they received to respective company
+3. Write a pig script to find list of companies toping in complaint chart (companies with maximum number of complaints)
+4. Write a pig script to find no of complaints filed with product type has &quot;Debt collection&quot; for the year 2015
