@@ -1,0 +1,1 @@
+create table debtcollection ( product varchar(100), collection_count integer);
